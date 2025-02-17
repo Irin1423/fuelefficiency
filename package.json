@@ -38,5 +38,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irin1423/fuelefficiency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irin1423/fuelefficiency/issues"
+  },
+  "homepage": "https://github.com/Irin1423/fuelefficiency#readme"
 }
