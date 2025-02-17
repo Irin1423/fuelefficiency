@@ -2,8 +2,8 @@
 import OpenAI from "openai";
 
 // const { Configuration, OpenAIApi } = require("openai");
-
-const OPENAI_API_KEY = "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";
+// "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";
+const OPENAI_API_KEY = "apikey-needtobereadfromenvironmentvariable";
 
 // const configuration = new Configuration({
 //   apiKey: OPENAI_API_KEY
