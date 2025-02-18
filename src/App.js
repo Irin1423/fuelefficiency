@@ -34,7 +34,7 @@ function App() {
     year : 2013 });
     */
   //  var res1 = 0;
-
+//hello test
     const openai_query_request_body = JSON.stringify({
       prompt: openai_query
     });
